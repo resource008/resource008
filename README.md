@@ -17,7 +17,7 @@ I enjoy automating repetitive tasks, managing server infrastructure, and ensurin
 
 ### 🚀 Featured Project
 
-📂 **[Sistem Surat (Digital Mail Management System)](https://github.com/username/sistem-surat)**
+📂 **[Sistem Surat (Digital Mail Management System)](https://github.com/resource008/sistem-surat)**
 A production-ready institutional mail management web application designed for structured and secure data tracking.
 * **Frontend Architecture:** Built with Next.js (App Router), React, and Tailwind CSS + Shadcn UI for a clean interface. Leveraged **SWR** for efficient data fetching/caching and Better-Auth to handle role-based access control (Admin, Staff, Interns).
 * **DevOps Pipeline:** Integrated **Docker Multi-stage Builds** to optimize production image sizes. Automated database migrations via Prisma ORM to a remote VPS and configured a robust **GitHub Actions** pipeline for automated ESLint and TypeScript compilation checks prior to deployment.
