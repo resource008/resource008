@@ -36,5 +36,3 @@ A production-ready institutional mail management web application designed for st
 
 * **LinkedIn:** [linkedin.com/in/aguspranatamarpaung](https://linkedin.com/in/aguspranatamarpaung)
 * **Email:** [aguspranatamarpaung2005@gmail.com](mailto:aguspranatamarpaung2005@gmail.com)
-
-*"Automate it once, save time forever."* ☕
